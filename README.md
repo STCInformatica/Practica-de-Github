@@ -1,2 +1,0 @@
-# Git_soporte_tecnico_computer
-sopoertecnicomputer
