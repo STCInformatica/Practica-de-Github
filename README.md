@@ -1,2 +1,2 @@
-# clase-de-Github
+# Practica-de-Github
 sopoertecnicomputer
